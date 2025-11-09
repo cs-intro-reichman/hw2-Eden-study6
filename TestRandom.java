@@ -3,7 +3,6 @@ public  class  TestRandom {
 	public static void main(String[]  args) {
 	    // Replace this comment with your code
 	    int times = Integer.parseInt(args[0]);
-	
 		int smaller =0 ;
 		int bigger= 0;
 		for (int i =0 ; i < times ; i++)
